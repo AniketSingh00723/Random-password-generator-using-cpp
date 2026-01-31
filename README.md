@@ -1,3 +1,4 @@
+```cpp
 // Random-password-generator-using-cpp
 #include<iostream>
 #include<cstdlib>
@@ -24,6 +25,7 @@ int main() {
         int index = rand() % chars.length();
         cout << chars[index];
     }
-
-    return 0;
+return 0;
 }
+```
+
