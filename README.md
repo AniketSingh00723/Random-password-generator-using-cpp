@@ -1,7 +1,7 @@
 // Random-password-generator-using-cpp
-#include <iostream>
-#include <cstdlib>
-#include <ctime>
+#include<iostream>
+#include<cstdlib>
+#include<ctime>
 using namespace std;
 
 int main() {
