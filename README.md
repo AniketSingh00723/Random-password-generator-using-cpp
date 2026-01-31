@@ -1,4 +1,4 @@
-# Random-password-generator-using-cpp
+// Random-password-generator-using-cpp
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
